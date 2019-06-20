@@ -15,6 +15,6 @@ ADD startup.sh /startup.sh
 
 RUN chmod +x /startup.sh
 
-EXPOSE 8001
+EXPOSE 8001 8002
 
 ENTRYPOINT ["/startup.sh"]
