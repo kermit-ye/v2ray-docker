@@ -1,2 +1,2 @@
-# v2ray-mkcp-docker
-build v2ray-mkcp docker image
+# v2ray-docker
+* build v2ray mkcp+ss docker image
