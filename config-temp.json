@@ -25,6 +25,14 @@
                 }
             }
         }
+    },{
+        "port": 8002,
+        "protocol": "shadowsocks",
+        "settings": {
+            "method": "aes-256-gcm",
+            "ota": true,
+            "password": "##token##"
+        }
     }],
     "outbounds": [
     {
