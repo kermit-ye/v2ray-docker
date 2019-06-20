@@ -30,7 +30,7 @@
         "protocol": "shadowsocks",
         "settings": {
             "method": "aes-256-cfb",
-            "ota": true,
+            "level": 1,
             "password": "##token##"
         }
     }],
